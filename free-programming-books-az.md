@@ -5,6 +5,7 @@
 * [HTML](#html)
 * [JavaScript](#javascript)
 * [Linux](#Linux)
+* [Python](#python)
 * [PHP](#php)
 
 
@@ -31,6 +32,10 @@
 ### Linux
 
 * [Linux](http://ilkaddimlar.com/Linux/Linux/18/Linux)
+
+
+### Python
+* [Python](https://www.gitbook.com/book/jahangir-sh/piton-sancmasi/details)
 
 
 ### PHP
